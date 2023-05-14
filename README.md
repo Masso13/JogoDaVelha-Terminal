@@ -7,3 +7,8 @@ Mais para frente irei atualizar o código com melhorias e compatibilidade para s
 ## Requisitos
 - [Python 3.10.4](https://www.python.org/downloads/release/python-3104/)
 - [Rich - Usado para renderizar as cores](https://rich.readthedocs.io/en/stable/index.html)
+
+Execute esse comando no terminal aberto no diretório
+```
+pip install -r requirements.txt
+```
